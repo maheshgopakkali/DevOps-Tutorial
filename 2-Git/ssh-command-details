@@ -24,3 +24,4 @@ ll
 cd 2-Git/
 history 
 history | cut -c 8- > history.txt
+history devops
